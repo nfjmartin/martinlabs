@@ -16,7 +16,6 @@ MartinLabs serves as a central repository for documenting practical labs, techni
 
 - **Labs** — Practical cybersecurity and infrastructure labs.
 - **Projects** — Technical development and implementation.
-- **Experiments** — Exploration, testing and proof of concepts.
 - **Templates** — Reusable documentation templates.
 
 ## 03 / Documentation
